@@ -186,7 +186,7 @@ def main(
         ],
         outputs=[
             gr.inputs.Textbox(
-                lines=5,
+                lines=20,
                 label="Output",
             )
         ],
